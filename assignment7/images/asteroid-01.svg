@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #161D3A;">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>asteroid-01</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="asteroid-01" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-Copy" transform="translate(4.000000, 0.000000)">
+            <polygon id="Path-3" fill="#775324" points="48.8789355 9.84223193 33.3120628 0.988798026 14.2237493 18.1821224 16.5395396 34.3622019 6.69777678 44.8642349 16.5395396 72.1498649 1.56372638 81.8310588 0.146291062 98.3558077 4.60899758 115.37749 23.4412315 121.332379 39.0371727 117.053773 60 119.085799 84.964015 108.745719 89.9167333 90.4104183 100.674846 80.0011277 93.6762591 65 86.7330407 53.2747203 103.428048 39.3232256 100.674846 26.3642124 86.7330407 22.6143762 80.5802087 9.84223193 60 15.0011982"></polygon>
+            <polygon id="Path-4" fill="#A27B4A" points="47.4130527 15.6409954 33.1944046 5.18019857 22.1746755 20.5491286 24.1651755 36.0094168 29.3504419 20.5491286 34.7938641 15.6409954"></polygon>
+            <polygon id="Path-5" fill="#A27B4A" points="16 49 24.1488689 76.9915792 24.1488689 52.9477788"></polygon>
+            <polygon id="Path-5-Copy" fill="#A27B4A" points="66 21.0521888 79.2167577 24.7678021 79.2167577 14"></polygon>
+            <polygon id="Path-5-Copy-2" fill="#A27B4A" transform="translate(60.462253, 58.949513) scale(-1, 1) translate(-60.462253, -58.949513) " points="55 73.8990263 65.9245061 56.74446 63.3304887 44 55 47.4591512 59.0311194 56.74446"></polygon>
+            <polygon id="Path-5" fill="#A27B4A" points="6.10948575 98.2132337 10.4254656 112.615982 13.1291773 93.5262845 20.1488689 81.8006061 7.77607963 85.3289681"></polygon>
+            <polygon id="Path-4-Copy-2" fill="#A27B4A" points="45.1494151 103 41 112.603549 47.1160051 109.15184"></polygon>
+            <polygon id="Path-4-Copy-3" fill="#A27B4A" points="79 72 80.4190384 81.9106138 87.5979861 72"></polygon>
+        </g>
+    </g>
+</svg>

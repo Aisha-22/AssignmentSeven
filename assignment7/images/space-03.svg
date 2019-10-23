@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #161D3A;">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>space-03</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="space-03" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Star" fill="#FFFFFF" points="48.5312229 88.6445581 41.7916306 99.2045393 47.5670463 88.0878905 35.0520382 87.5312229 47.5670463 86.9745553 41.7916306 75.8579065 48.5312229 86.4178877 55.2708153 75.8579065 49.4953995 86.9745553 62.0104076 87.5312229 49.4953995 88.0878905 55.2708153 99.2045393"></polygon>
+        <circle id="Oval" fill="#FFFFFF" cx="71.5" cy="24.5" r="1.5"></circle>
+        <circle id="Oval-Copy-3" fill="#FFFFFF" cx="111.5" cy="98.5" r="1.5"></circle>
+        <circle id="Oval-Copy" fill="#FFFFFF" cx="107" cy="109" r="1"></circle>
+        <circle id="Oval-Copy-2" fill="#FFFFFF" cx="48" cy="12" r="1"></circle>
+    </g>
+</svg>

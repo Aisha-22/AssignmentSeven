@@ -1,0 +1,61 @@
+body{
+    background-color: black;
+    margin: 0;
+}
+
+p {
+    margin: 0;
+}
+.square {
+    width: 64px;
+    height: 64px;
+    border: solid;
+    padding: 2px;
+    margin: 2px;
+    background-color: steelblue;
+    border-radius: 10%;
+}
+
+img {
+    width: 64px;
+    height: 64px;
+    visibility: hidden;
+}
+
+#boar {
+    display: flex;
+    flex-wrap: wrap;
+    border: solid;
+    margin: 30px auto;
+    width: 1000px;
+    height: 1000px;
+    padding: 20px;
+    background-color: white;
+}
+
+#message {
+    margin: auto;
+}
+
+h1 {
+    font-size: 5rem;
+    color: #DBEDF3;
+    font-family: "Arvo", cursive;
+    text-shadow: 3px 0 #DA0463;
+    text-align: center;
+    background-color: aquamarine;
+    margin: 0;
+    padding: 20px 0;
+}
+
+#stripe {
+    background-color: antiquewhite;
+    height: 65px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 700;
+    letter-spacing: 1px;
+    font-size: 20px;
+    margin: 0;
+}
+
